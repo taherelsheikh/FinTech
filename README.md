@@ -11,5 +11,5 @@ FinTechs like payments and lending solely see entrepreneurs as their target audi
 
 I have yet to see a machine learning project used for day to day business problems. It's either let's figure out how to cure cancer or let's use a boring as hell government datasets to project future crime rates.
 
-This project uses a couple of supervised learning algorithms and a set of sexy features that really can be used to reflect the level of entrepreneurship in a country 
+This project is different and it uses a couple of supervised learning algorithms and a set of sexy features that really can be used to reflect the level of entrepreneurship in a country 
 
