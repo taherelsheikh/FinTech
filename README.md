@@ -1,7 +1,7 @@
 
 #FinTech
 
-This is a machine learning tool created for FinTechs. It is designed to be used when they are planning on expanding internationally.
+This is a machine learning project created for FinTechs. It is designed to be used when they are planning on expanding internationally.
 
 ##How is this useful?
 
