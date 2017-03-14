@@ -13,7 +13,7 @@ I have yet to see a machine learning project used for day to day business proble
 
 This project is different and it uses a couple of supervised learning algorithms and a set of sexy features that really can be used to reflect the level of entrepreneurship in a country 
 
-## The Project
+## The project
 
 A set of supervised learning algorithms were used to identify whether a country is awesome for international expansion or not.
 
