@@ -15,7 +15,7 @@ This project is different and it uses a couple of supervised learning algorithms
 
 ## The Project
 
-A set of supervised learning algorithms were used to identify whether a country is a awesome for international expansion or not.
+A set of supervised learning algorithms were used to identify whether a country is awesome for international expansion or not.
 
 Three features were used:
 - Starbucks Locations
