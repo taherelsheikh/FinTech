@@ -17,7 +17,7 @@ The output:
 
 ## How is this useful
 
-FinTechs like payments and lending solely see entrepreneurs as their target audience. Their market is people who accept payments in any form and want to manage these payments so what if there is a way to measure entrepreneurship in a country and the features that reflect that.
+FinTechs like payments and lending solely see entrepreneurs as their target audience. In fact, their market are people who accept payments in any form and want to manage these payments so what if there is a way to measure entrepreneurship in a country and the features that reflect that.
 
 ## Machine learining for real problems
 
