@@ -5,13 +5,13 @@ This is a machine learning project created for FinTechs. It is to be used when t
 
 The project is a set of supervised learning algorithms to identify whether a country is sexy for international expansion or not.
 
-** The features: ** 
+### The features: 
 
 > - Starbucks Locations 
 > - iPhone Users 
 > - ATMs per 1000 Adults
 
-** The output: ** 
+### The output: 
 
 > - 2017 Global Enterpnerhsip Index
 
