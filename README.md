@@ -7,13 +7,13 @@ The project is a set of supervised learning algorithms to identify whether a cou
 
 The features:
 
-- Starbucks Locations
+> - Starbucks Locations
 - iPhone Users 
 - ATMs per 1000 Adults
 
 The output:
 
-- 2017 Global Enterpnerhsip Index
+> - 2017 Global Enterpnerhsip Index
 
 ## How is this useful
 
