@@ -7,9 +7,9 @@ The project is a set of supervised learning algorithms to identify whether a cou
 
 The features:
 
-> - Starbucks Locations
-- iPhone Users 
-- ATMs per 1000 Adults
+> - Starbucks Locations 
+> - iPhone Users 
+> - ATMs per 1000 Adults
 
 The output:
 
