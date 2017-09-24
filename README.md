@@ -1,5 +1,5 @@
 
-# -> FinTech <-
+-> FinTech <-
 
 > This is a machine learning project created for FinTechs. It is to be used when they are planning on expanding internationally. <br>
 The project is a set of supervised learning algorithms to identify whether a country is great for international expansion or not.
