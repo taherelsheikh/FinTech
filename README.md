@@ -22,8 +22,7 @@ The project is a set of supervised learning algorithms to identify whether a cou
 ## Machine learning for real problems
 
 > I have yet to see a machine learning project used for day to day business problems. It's either let's figure out how to cure cancer or let's use a boring as hell government datasets to project future crime rates.
-
-> This project is different as it uses a couple of supervised learning algorithms and a set of cool features that really can be used to reflect the level of entrepreneurship in a country 
+This project is different as it uses a couple of supervised learning algorithms and a set of cool features that really can be used to reflect the level of entrepreneurship in a country 
 
 
 
