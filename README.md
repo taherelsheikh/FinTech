@@ -1,6 +1,6 @@
 
 # FinTech 
-![](http://www.fintechconnect.com/wp-content/uploads/2017/05/Fintech-Banner-Image.png)
+![](https://i.pinimg.com/564x/76/94/c2/7694c27a40732e0a2987151c9c73b12b.jpg)
 
 > This is a machine learning project created for FinTechs. It is to be used when they are planning on expanding internationally. <br>
 The project is a set of supervised learning algorithms to identify whether a country is great for international expansion or not.
