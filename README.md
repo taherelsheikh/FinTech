@@ -1,6 +1,6 @@
 
 # FinTech 
-[](https://i.pinimg.com/564x/47/bf/d4/47bfd43db065cd3bc2bf247b2d162020.jpg)
+![](https://i.pinimg.com/564x/47/bf/d4/47bfd43db065cd3bc2bf247b2d162020.jpg)
 
 
 > This is a machine learning project created for FinTechs. It is to be used when they are planning on expanding internationally. <br>
