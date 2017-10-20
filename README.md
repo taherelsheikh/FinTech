@@ -14,7 +14,7 @@ The project is a scipt of supervised learning techniques to identify whether a c
 
 ### The Output
 
-> - 2017 Global Enterpnerhsip Index
+> - 2017 Global Entrepreneurship Index
 
 ## How is this useful
 
